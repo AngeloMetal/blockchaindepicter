@@ -4,6 +4,7 @@
 // @author      BlackHatCoiner
 // @version     1.0.0
 // @include     https://bitcointalk.org/index.php?action=post;*quote=*
+// @include     https://bitcointalk.org/index.php?action=post;*topic=*
 // @include     https://bitcointalk.org/index.php?action=pm;sa=send;f=inbox;pmsg=*;quote;u=*
 // @license   MIT
 // @grant none
